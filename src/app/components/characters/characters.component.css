@@ -1,9 +1,12 @@
-.margin-top {
-    margin-top: 40px;
-}
 img {
     width: 100%;
 }
 .right {
     float: right;
+}
+hr {
+    margin-right: 185px;
+}
+.title {
+    font-size: 5em;
 }
