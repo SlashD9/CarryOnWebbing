@@ -1,5 +1,15 @@
 .text-center {
-    width: auto;
-    height: auto;
     text-align: center;
 }
+ .margin-top {
+     margin-top: 40px;
+ }
+ .main-image {
+     width: 300px;
+ }
+ .red-text {
+     color: #f1332f;
+ }
+ .bolder-text {
+     font-weight: 900;
+ }
