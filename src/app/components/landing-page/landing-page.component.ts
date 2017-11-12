@@ -10,6 +10,7 @@ export class LandingPageComponent implements OnInit {
   image1 = './assets/images/carry_on_camping.jpg';
   image2 = './assets/images/carry_on_atYourConvenience.jpg';
   image3 = './assets/images/carry_on_Cleo.jpg';
+  faces = './assets/images/faces.jpg';
   constructor() { }
 
   ngOnInit() {

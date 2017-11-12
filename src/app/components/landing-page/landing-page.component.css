@@ -5,11 +5,18 @@
      margin-top: 40px;
  }
  .main-image {
-     width: 300px;
+     width: 100%;
  }
  .red-text {
      color: #f1332f;
  }
  .bolder-text {
-     font-weight: 900;
+     font-weight: 600;
+     font-size: 4em;
  }
+ .heading-font {
+    font-family: 'Sigmar One', cursive;
+ }
+.faces {
+    width: 80%;
+}
