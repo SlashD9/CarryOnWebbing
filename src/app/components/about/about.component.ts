@@ -7,7 +7,7 @@ import { Component, OnInit, ViewEncapsulation } from '@angular/core';
   encapsulation: ViewEncapsulation.None
 })
 export class AboutComponent implements OnInit {
-
+  peter = './assets/images/Peter_Rogers.jpg';
   constructor() { }
 
   ngOnInit() {
